@@ -1,0 +1,153 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/st_light_blue"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+        <!--<com.st.st25nfc.generic.SlidingTabLayout-->
+            <!--android:id="@+id/sliding_tabs"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content" />-->
+
+        <!--<android.support.v4.view.ViewPager-->
+            <!--android:id="@+id/pager"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"/>-->
+
+
+        <!--1 通用指令 扩展指令 选项卡栏-->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="40dp"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:padding="5dp"-->
+            <!--&gt;-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/common_command_tv"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/command_common"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:gravity="center"-->
+                <!--android:background="@drawable/selector_choose_command_left"-->
+                <!--android:enabled="true"-->
+                <!--/>-->
+
+            <!--<View-->
+                <!--android:layout_width="1dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:background="@color/white"-->
+                <!--/>-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/expand_command_tv"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_weight="1"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/command_expand"-->
+                <!--android:textColor="@color/white"-->
+                <!--android:gravity="center"-->
+                <!--android:background="@drawable/selector_choose_command_right"-->
+                <!--android:enabled="false"-->
+                <!--/>-->
+
+        <!--</LinearLayout>-->
+
+
+        <!--2 命令帧 选择 发送-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_command"
+            android:textSize="13sp"
+            android:layout_marginTop="3dp"
+            android:textColor="@color/colorPrimary"
+            android:background="@drawable/radius_border_shape_white"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/build_command_btn"
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_bg_btn"
+                android:text="@string/command_frame"
+                android:textColor="#fff"
+                android:textSize="15sp"
+                android:onClick="popupCommandView"
+                />
+
+            <EditText
+                android:id="@+id/edit_send"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_weight="1"
+                android:hint="@string/command_hint_input"
+                android:inputType="text"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/btn_qpp_text_send"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:background="@drawable/selector_bg_btn"
+                android:text="@string/command_send"
+                android:textColor="#fff"
+                android:textSize="16sp"
+                android:onClick="sendBtn"
+                />
+        </LinearLayout>
+
+
+
+        <!--3 数据交互区域-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/command_record"
+            android:textSize="13sp"
+            android:layout_margin="3dp"
+            android:textColor="@color/colorPrimary"
+            />
+
+        <ListView
+            android:id="@+id/msg_communication_lv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+    <android.support.design.widget.NavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header_main"
+        app:menu="@menu/menu_empty" />
+
+</android.support.v4.widget.DrawerLayout>

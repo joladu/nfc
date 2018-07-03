@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\1b8d0ce1364a4312b35fb30f9e33b214a632d8b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_f464f42cb1903a7205dec1f3c6c5062503c91102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\9a2acd69d16afec1791dd8be3f27bfee28131390\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_9fc552052708398764b8cbdb9e1b02e9227849c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.5_80f1ebb91fa7d6dc0c79e90a237ebd85d65b6c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\9a2acd69d16afec1791dd8be3f27bfee28131390\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fc552052708398764b8cbdb9e1b02e9227849c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\f00f767b9c7ec90c6d6ec047e2edafc48a50204e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_0b1558cc9b91d658affa6028595a37e7c7bfb387.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\1b8d0ce1364a4312b35fb30f9e33b214a632d8b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f464f42cb1903a7205dec1f3c6c5062503c91102\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\f00f767b9c7ec90c6d6ec047e2edafc48a50204e\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_16f68ae5c7fa1417ee442cc72c081b5109641f9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\2b88cd6a116c802b6264d8ae353db00235a7c9f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f05cf17c9670f9c4f8673724cb807f2904b98f56">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_8532e27a0333bd15abe10ff48db42258d0a231d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_367486334497ca5efbbf3708b676df1c95b517b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\commons-lang3-3.5_80f1ebb91fa7d6dc0c79e90a237ebd85d65b6c89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\f00f767b9c7ec90c6d6ec047e2edafc48a50204e\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_16f68ae5c7fa1417ee442cc72c081b5109641f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\2b88cd6a116c802b6264d8ae353db00235a7c9f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f05cf17c9670f9c4f8673724cb807f2904b98f56">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8532e27a0333bd15abe10ff48db42258d0a231d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\worksapce\studio\nfc_source\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c92f72e8838e425ce0f2048d18c7777af61cc5ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_367486334497ca5efbbf3708b676df1c95b517b9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\worksapce\studio\nfc_source\app\libs\st25sdk-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb43147a0ce96d61971d1da6e2b2891943ab394f">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\2\st25sdk-1.2.0_a472eacbe2f5edec5ba1e9348ad9a05dbe8235a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\44b6f9a493c6016e594aade7b2e42dbc4b9cfde5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50aa8e43430c6fbfae213e7c8860072068b72256\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\worksapce\studio\nfc_source\app\libs\st25sdk-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb43147a0ce96d61971d1da6e2b2891943ab394f">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\st25sdk-1.2.0_a472eacbe2f5edec5ba1e9348ad9a05dbe8235a5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\f00f767b9c7ec90c6d6ec047e2edafc48a50204e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b1558cc9b91d658affa6028595a37e7c7bfb387\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\94e54c3dfa3ed5049f1e03703a4271e90c713736\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_cfbdbe47a87fb4c7767ebfa559fa2c957a18f53f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\94e54c3dfa3ed5049f1e03703a4271e90c713736\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfbdbe47a87fb4c7767ebfa559fa2c957a18f53f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\44b6f9a493c6016e594aade7b2e42dbc4b9cfde5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_50aa8e43430c6fbfae213e7c8860072068b72256.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\bd98d2572455bc1ec67c863ae0ae247612061b6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8dec467e9ed664a48fe635b36ef8e3ccb90864d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\worksapce\studio\nfc_source\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="389154525d92618ae083b4349d3d9849ab6ab87d">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cece31ee8ae496fd8952e8e7f6411737f8f67c8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\bd98d2572455bc1ec67c863ae0ae247612061b6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\worksapce\studio\nfc_source\app\build\intermediates\pre-dexed\debug\classes_8dec467e9ed664a48fe635b36ef8e3ccb90864d7.jar" />
+    </item>
+
+</items>

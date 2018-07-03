@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_authenticationType">
+        <item>OPEN</item>
+        <item>WPAPSK</item>
+        <item>SHARED</item>
+        <item>WPA</item>
+        <item>WPA2</item>
+        <item>WPA2PSK</item>
+    </string-array>
+    <string-array name="wifi_encryptionType">
+        <item>NONE</item>
+        <item>WEP</item>
+        <item>TKIP</item>
+        <item>AES</item>
+    </string-array>
+    <string-array name="unit_readMemory">
+        <item>Bytes</item>
+        <item>Blocks</item>
+    </string-array>
+    <string-array name="pwm_trimming_values">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="pwm_duality_values">
+        <item>全双工</item>
+        <item>PWM设置RF命令</item>
+        <item>1/4PWM设置RF命令</item>
+        <item>降低频率</item>
+        <item>降低频率和1/4全功率设置RF命令</item>
+    </string-array>
+    <string-array name="permisisons">
+        <item>可读可写</item>
+        <item>可读，写密码保护</item>
+        <item>读写密码保护</item>
+        <item>读密码保护，不可写（即使密码）</item>
+    </string-array>
+
+    <!--&lt;!&ndash;扩展命令&ndash;&gt;-->
+    <!--<string-array name="expand_command">-->
+        <!--<item>广播搜索地址</item>-->
+        <!--<item>读通信参数</item>-->
+    <!--</string-array>-->
+
+    <!--命令集-->
+    <string-array name="grid_command">
+        <!-- 1 810A-->
+        <item>读表地址</item>
+
+        <!--2 A018-->
+        <item>写表地址</item>
+
+        <!--3 901F-->
+        <item>读计量数据</item>
+
+        <!--4 D120 (对应上1个月) ` D131（上18个月） -->
+        <item>读历史月累积量</item>
+
+        <!--5 D134（上 1 日） ` D153（上31日） -->
+        <item>读历史日冻结量</item>
+
+        <!--6 A016-->
+        <item>写机电同步数据</item>
+
+        <!--7 A015-->
+        <item>校时</item>
+
+        <!--8 A019-->
+        <item>出厂启用</item>
+
+        <!--10 A018-->
+        <item>设置厂内</item>
+
+        <!--11 A010-->
+        <item>读EEPROM</item>
+
+        <!--12 A011-->
+        <item>读电池电压</item>
+
+        <!-- 14 A013-->
+        <item>清表数据</item>
+
+        <!-- 15 A01A-->
+        <item>读软件版本号</item>
+
+        <!-- 16 A01B -->
+        <item>读表运行数据</item>
+
+        <!-- 17 A01C-->
+        <item>读Boot版本号</item>
+
+        <!-- 19 A01E-->
+        <item>读硬件版本号</item>
+
+        <!-- 20 A01F-->
+        <item>设置内条码</item>
+
+        <!-- 21 A020-->
+        <item>生产专用1</item>
+
+        <!-- 21 A021-->
+        <item>生产专用2</item>
+
+        <!-- 22 A022-->
+        <item>软件复位</item>
+
+        <item>水表数据补抄</item>
+
+        <item>水表数据上报</item>
+
+        <item>读文件数据</item>
+
+        <item>写文件数据</item>
+
+        <item>设置离散上报时间</item>
+
+        <item>红外NB生产测试</item>
+
+        <item>红外读NB模组信息</item>
+
+        <item>红外触发上报</item>
+
+        <item>重启NB模组</item>
+
+        <item>读NB通信状态字</item>
+
+        <item>关闭红外</item>
+
+        <item>读IMEI</item>
+
+        <item>读IMSI</item>
+
+    </string-array>
+
+
+    <string-array name="rate_wrieless_arr">
+        <item>公共信道-496Mhz</item>
+        <item>信道1:493Mhz</item>
+        <item>信道2:493.4Mhz</item>
+        <item>信道3:493.8Mhz</item>
+        <item>信道4:494.2Mhz</item>
+        <item>信道5:494.6Mhz</item>
+        <item>信道6:495Mhz</item>
+        <item>信道7:495.4Mhz</item>
+        <item>信道8:495.6Mhz</item>
+        <item>信道9:497Mhz</item>
+        <item>信道10:497.4Mhz</item>
+        <item>信道11:497.8Mhz</item>
+        <item>信道12:498.2Mhz</item>
+        <item>信道13:498.6Mhz</item>
+        <item>信道14:499Mhz</item>
+    </string-array>
+
+
+</resources>

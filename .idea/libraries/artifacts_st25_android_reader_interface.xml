@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:st25.android.reader.interface">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/st25_android_reader_interface-1.0.1-release.aar/b0c8807eb9c25dd0c9a546831383ae0a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/st25_android_reader_interface-1.0.1-release.aar/b0c8807eb9c25dd0c9a546831383ae0a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
